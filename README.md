@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ---
 <div align: "center">
   <h1> Retail Analytics </h1>
-  
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg)" title="Python" alt="python" width="40" height="40"/> 
+
+  ### :hammer_and_wrench: Languages and Tools 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="python" width="40" height="40"/> 
 </div>
