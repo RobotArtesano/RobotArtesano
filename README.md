@@ -19,5 +19,11 @@ Here are some ideas to get you started:
   <h1> Retail Analytics </h1>
 
   ### :hammer_and_wrench: Languages and Tools 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="html" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="css" width="40" height="40"/>
+  <img src="" title="Python" alt="python" width="40" height="40"/>
+  <img src="" title="Python" alt="python" width="40" height="40"/>
 </div>
