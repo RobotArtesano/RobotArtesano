@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="color=green;"> Retail Analytics </h1>
+<h1 style: "color:green text-align: center;"> Retail Analytics </h1>
 
