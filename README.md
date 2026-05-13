@@ -1,5 +1,8 @@
-## Hola, 👋
+### Hola, Bienvenido!, 👋
 # Soy Alan
+## Supply Chain Analytics | Retail Forecasting | Inventory Optimization | Python Developer Solutions
+
+Building data-driven retail systems with Machine Learning and full-stack Python development.
 <!--
 **RobotArtesano/RobotArtesano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +18,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Background in retail operations transitioning into analytics and software development.
 
-### 🚀 Desarrollo Destacado: Motor Predictivo de Retail
+Focused on:
+- CPFR & Demand Planning
+- Retail Analytics
+- Forecasting Systems
+- Inventory Optimization
+- Full-Stack Python Applications for business solutions
 
-Una plataforma *end-to-end* diseñada para calcular escenarios de pronóstico y reabastecimiento. 
 
-*  Infraestructura Base:** Arquitectura backend desarrollada en **Flask**, acoplada a **PostgreSQL** mediante SQLAlchemy para garantizar la integridad transaccional (ACID).
-*  Machine Learning:** Integración de **Prophet** (modelo bayesiano) y algoritmos de bosque aleatorio (Random Forest) para pronosticar demanda. La carga computacional pesada está delegada a *Workers* asíncronos en segundo plano mediante **Redis** y **RQ**, protegiendo el hilo principal del servidor.
-* Despliegue y Visualización:** Contenerización estricta del entorno mediante **Docker** (Inyección de dependencias y variables en tiempo de ejecución en **Railway**). La interfaz de usuario es responsiva y sobria, utilizando **Bootstrap** e integrando **Plotly** para la interactividad de los gráficos estadísticos.
+# 🚀 Featured Project
+
+## Retail Forecasting & Replenishment Platform
+
+Full-stack web application for retail demand forecasting, replenishment planning and inventory optimization.
+
+### Highlights
+- Prophet + Random Forest ensemble forecasting
+- Automated replenishment engine
+- Executive dashboards
+- Multi-tenant architecture
+- Async ML processing with Redis workers
+- Forecasting by SKU and store
+
+🔗 [View Repository](https://github.com/RobotArtesano/Dashboard-Retail_v2.0_flask)
 
 ---
+🌱 I’m currently learning an exploring
 
+- ML Engineering
+  
 ---
 <div align: "center">
-  <h1> Retail Analytics </h1>
+  <h1> CPFR | Retail Analytics | Supply Chain Data Science | Inventory Optimization | Software Development </h1>
 
   ### :hammer_and_wrench: Languages and Tools 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="python" width="40" height="40"/> 
