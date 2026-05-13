@@ -51,7 +51,7 @@ Full-stack web application for retail demand forecasting, replenishment planning
   
 ---
 <div align: "center">
-  <h1> CPFR | Retail Analytics | Supply Chain Data Science | Inventory Optimization | Software Development </h1>
+  <h1> Software Development tools </h1>
 
   ### :hammer_and_wrench: Languages and Tools 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="python" width="40" height="40"/> 
