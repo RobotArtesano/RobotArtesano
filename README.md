@@ -42,7 +42,7 @@ Full-stack web application for retail demand forecasting, replenishment planning
 - Async ML processing with Redis workers
 - Forecasting by SKU and store
 
-🔗 [View Repository](https://github.com/RobotArtesano/Dashboard-Retail_v2.0_flask)
+🔗 [View Public README](https://github.com/RobotArtesano/Dashboard-Retail_v2.0_flask)
 
 ---
 🌱 I’m currently learning an exploring
